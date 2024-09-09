@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @BibsfihaG
+- 👀 I’m interested in pentest 
+- 🌱 I’m currently learning english
+- 💞️ I’m looking to collaborate on brazilian projects
+- 📫 How to reach me: tiktok @bibsvettel
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: When I was younger, I almost drowned in a pool (I was using a buoy) 
