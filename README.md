@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BibsfihaG
-- 👀 I’m interested in pentest 
-- 🌱 I’m currently learning english
+- 👀 I’m interested in networking
+- 🌱 I’m currently learning networking fundamentals
 - 💞️ I’m looking to collaborate on brazilian projects
 - 📫 How to reach me: tiktok @bibsvettel
 - 😄 Pronouns: he/him
