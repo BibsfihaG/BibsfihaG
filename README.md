@@ -22,7 +22,7 @@ Entusiasta de Tecnologia e Redes, focado em criar uma base sólida em **Infraest
 ![KVM](https://img.shields.io/badge/KVM/Virt--Manager-FF6600?style=for-the-badge&logo=qemu&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
-![UFW](https://img.shields.io/badge/UFW-Firewall-333333?style=for-the-badge)
+![UFW](https://img.shields.io/badge/UFW-Firewall-333333?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 **Controle de Versão**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
